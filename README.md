@@ -1,3 +1,4 @@
-Website name: CosmoClimate
-Language(s): HTML5 / CSS3 / JavaScript
-API: https://openweathermap.org/api
+Un site web pour météo réalisé avec HTML, CSS et JavScript. Une API a été utilisée pour les données météo.
+
+
+Lien de l'API: https://openweathermap.org/api
